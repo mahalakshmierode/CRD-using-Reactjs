@@ -1,0 +1,95 @@
+.p{
+    text-align: center;
+}
+.p:hover{
+background-color: rgb(238, 130, 238 ,0.3);
+border-left: solid  violet 6px;
+}
+.a1:hover {
+    background-color: rgb(160, 157, 157);
+    border-radius: 5px;
+    color:white;
+   
+}
+.bar{
+    border-bottom:solid rgb(228, 227, 227) 1px;
+    border-top:solid rgb(228, 227, 227) 1px; 
+    height:60px;
+    background-color: white;
+     
+}
+.a1{
+    color: black;
+    font-size:18px ;
+    margin-left: 20px;
+}
+.a2{
+    
+   font-size: 270%;
+   margin-left: 25px;
+
+}
+.q1{
+    margin-top: 17px;
+   
+}
+.q2{
+    margin-top: 17px;
+    margin: left 50px;
+
+}
+.t1{
+    font-size:35px;
+    margin-bottom: none;
+}
+.arrow{
+    color:rgb(82, 212, 82);
+    font-size: 25px;
+}
+.g1{
+    font-size:35px;
+    
+    
+}
+img{
+    margin-bottom:20px ;
+}
+.y1{
+    margin-bottom: none;
+    
+
+}
+.s1{
+    color:rgb(243, 162, 243);
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 50px;
+}
+.green{
+    color:green;
+}
+.Red{
+    color:red;
+    
+}
+.divcolor{
+    background-color: rgb(240, 223, 240);
+}
+.divcolor1{
+
+    background-color: white;
+    margin:30px;
+    margin-left:30px;
+    border:solid rgb(179, 177, 177) 1px;
+}
+.f5{
+    width:400px;
+    border: none;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto 20px 30px;
+    justify-content: space-around;
+}
+
+
