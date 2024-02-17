@@ -9,7 +9,7 @@ import { Navbar, Nav } from 'react-bootstrap';
 function Layout() {
   return (
     <div class="container-fluid"  >
-      <div className="row">
+      <div className="row py-5">
 
         <div className="col-sm-1 bg-dark text-white" style={{ height: "1000px", padding: 0, margin: 0 }} >
           <div class="sidebar">
